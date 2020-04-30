@@ -1,0 +1,9 @@
+CairoSVG
+matplotlib
+numpy
+Pillow
+python-chess
+stockfish
+tensorboard
+torch
+torchvision
